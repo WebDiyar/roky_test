@@ -1,0 +1,17 @@
+.spinnerContainer {
+    text-align: center;
+    padding: 50px;
+}
+
+.noDataContainer {
+    text-align: center;
+    padding: 50px;
+}
+
+.cardContainer {
+    text-align: center;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

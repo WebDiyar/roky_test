@@ -1,0 +1,44 @@
+.container {
+    padding: 10px;
+}
+
+.search {
+    width: 300px;
+    margin-bottom: 5px;
+    padding-right: 20px;
+}
+
+.clearButton {
+    margin-bottom: 5px;
+    padding: 10px 10px;
+}
+
+.detailsButton {
+    background-color: #1890ff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.detailsButton:hover {
+    background-color: #40a9ff;
+}
+
+.spinnerContainer {
+    text-align: center;
+    padding: 50px;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.pagination {
+    margin-top: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
